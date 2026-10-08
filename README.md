@@ -8,10 +8,6 @@ I'm especially interested in turning scientific methods into practical tools: co
 
 My main project is **[Ligand-X](https://www.ligand-x.com)**, a self-hosted platform that brings molecular modeling, simulation, and drug-discovery workflows into one application. It connects structure preparation, screening, simulation, and molecular design through shared projects, a molecule library, interactive visualization, and workflow orchestration.
 
-<a href="https://www.ligand-x.com">
-  <img src="https://raw.githubusercontent.com/kon-218/ligand-x-launcher/main/docs/images/ligand-x-app-ui.png" alt="Ligand-X computational chemistry application" width="900" />
-</a>
-
 The platform spans:
 
 - **Prepare and explore:** protein structure preparation, binding-pocket detection, molecule editing, structure alignment, and multiple sequence alignment.
