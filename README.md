@@ -17,7 +17,7 @@ The platform spans:
 
 Building Ligand-X brings together the scientific methods and the software around them: a Python/FastAPI backend, a TypeScript/Next.js interface, asynchronous execution with Celery, containerized scientific environments, and a Go/Wails desktop launcher that installs and manages the local runtime.
 
-**[Website](https://www.ligand-x.com)** · **[Desktop launcher](https://github.com/kon-218/ligand-x-launcher)** · **[Downloads](https://github.com/kon-218/ligand-x-launcher/releases/latest)** · **[Support & discussions](https://github.com/kon-218/ligand-x-support)**
+**[Website](https://www.ligand-x.com)** · **[Desktop launcher](https://github.com/kon-218/ligand-x-launcher#readme)** · **[Downloads](https://github.com/kon-218/ligand-x-launcher/releases/latest)** · **[Support & discussions](https://github.com/kon-218/ligand-x-support)**
 
 ## Other projects
 
